@@ -18,7 +18,7 @@ December, has less observations than June at 1,517. This indicates that some of 
 
 ![December Temperature Statistics](https://github.com/nfujikad/surfs_up/blob/main/Resources/Dec%20Temp%20Summary%20Stats.PNG)
 
-## Summary:
-Comparing the overall summary for the two months, temperature patterns remain steady throughout the whole year. However, there are two more queries that  need to be included in order to get a better understanding of the weather on Oahu. Although temperatures may remain about the same throughout the year, the number of rainy days may have a significant impact on the business success. Doing a statistically summary of the precipitation patterns during the months of June and December will provide a complete understanding of the overall weather pattern. 
+## Summary
+1.  Comparing the overall summary for the two months, temperature patterns remain steady throughout the whole year. However, there are two more queries that  need to be included in order to get a better understanding of the weather on Oahu. Although temperatures may remain about the same throughout the year, the number of rainy days may have a significant impact on the business success. Doing a statistically summary of the precipitation patterns during the months of June and December will provide a complete understanding of the overall weather pattern. 
 
-A second query can help by comparing the most active stations to the weather patterns. The best location can be determined by cross-referencing the most popular station with the highest weather stability.
+2.  A second query can help by comparing the most active stations to the weather patterns. The best location can be determined by cross-referencing the most popular station with the highest weather stability.
